@@ -1,0 +1,25 @@
+.container{
+    width: 80%;
+    margin: auto;
+    font-size: 20px;
+    line-height: 30px;
+}
+table,tr,th,td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+}
+.images div{
+    padding: 10px;
+    box-shadow: 1px 5px 10px gray;
+    border-radius: 10px;
+}
+
+.images img{
+   height: 200px;
+    width: 200px;
+}
