@@ -22,6 +22,7 @@ if (student === "artStudent") {
   subjects = "English, Mathematics";
 }
 console.log(course, subjects);
+// The answer, Art Students:  English, Mathematics, Government, Economics, Literature, History
 
 let num = 50;;
 let pwr = 1;
@@ -47,4 +48,5 @@ for (let a = 0; a < arr.length; a++) {
   }
 }
 console.log(`The number ${result} is the power of 2 nearest to ${num}`)
+//the answer is The number 64 is the power of 2 nearest to 50
 
